@@ -1,7 +1,7 @@
 # Do Left-Handed People Really Die Young? 
 
 Welcome! This is a Python project intended to help you practice using Python for data science. 
-The content of this project is nearly identical to the [DataCamp project](https://www.datacamp.com/projects/479) I created at the end of 2018, but this version is free!
+The content of this project is nearly identical to the DataCamp project I created at the end of 2018, but this version is free!
 
 ## What is this project about?
 
