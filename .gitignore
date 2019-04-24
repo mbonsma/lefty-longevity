@@ -1,0 +1,22 @@
+# OS files to ignore
+.DS_Store
+
+# Python files ignore
+.ipynb_checkpoints
+.ipynb_checkpoints
+__pycache__
+
+# R files to ignore
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user
+*.Rproj
+.httr-oauth
+/*_cache/
+/cache/
+*.utf8.md
+*.knit.md
+
+# misc to ignore
+
